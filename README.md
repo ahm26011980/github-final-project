@@ -1,5 +1,4 @@
-# github-final-project
-GitHub final project
+GitHub final project:
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 Input:
